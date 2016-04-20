@@ -53,4 +53,8 @@ Fizz = int(Fizz)
 Buzz = int(Buzz)
 
 
+x=0
+while x<=NC:
+    print(x)
+    x=x+1
 
