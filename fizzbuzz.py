@@ -53,7 +53,7 @@ Fizz = int(Fizz)
 Buzz = int(Buzz)
 
 
-x=0
+x=1
 while x<=NC:
     if x%Fizz==0:
         print("Fizz")
