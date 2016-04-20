@@ -56,7 +56,7 @@ Buzz = int(Buzz)
 x=0
 while x<=NC:
     if x%Fizz==0:
-        print(Fizz)
+        print("Fizz")
     else:
         print(x)
     x=x+1
