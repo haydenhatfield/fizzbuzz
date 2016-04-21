@@ -61,3 +61,10 @@ while x<=NC:
         print(x)
     x=x+1
 
+x=1
+while x<=NC:
+    if x%Buzz==0:
+        print("Buzz")
+    else:
+        print(x)
+    x=x+1
